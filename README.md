@@ -13,7 +13,7 @@ A sloppily written clicker in Java.
 6. Voila
 ## Don'ts
 - DO NOT USE IT OVER NIGHT the bot won't stop flicking when you die.
-## Do's
+## Dos
 - Check on it regularly to see that you haven't run out of absorption. Just stop the bot and fill up on absorption and start it again.
 # Use at your own risk.
 I've personally used it for 20h+ without any repercussions. I highly doubt this will become popular enough to be detected by the botting system.
